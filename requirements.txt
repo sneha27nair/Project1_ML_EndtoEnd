@@ -6,4 +6,7 @@ scikit-learn
 catboost
 xgboost
 scikit-learn
+Pipeline
+dill
+pickle5
 #-e .
